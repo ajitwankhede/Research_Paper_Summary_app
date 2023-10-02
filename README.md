@@ -17,3 +17,7 @@ Dependency:
 - streamlit==1.18.1
 - faiss-cpu==1.7.4
 - streamlit-extras
+
+## Application UI:
+![1](https://github.com/ajitwankhede/Research_Paper_Summary_app/assets/85306409/1341ebd2-8e16-4019-85c2-1e6502eb3a0e)
+
