@@ -1,5 +1,5 @@
-# Research_Paper_Summary_app
- Research Paper Summary app
+# Research Paper Summary app
+ 
 When it comes to studying a research paper document, it is a very tedious task, and if paper does not meet our needs, we end up with waste of time, so here I have developed LLM powered Que-Ans app, answers your question with Ai touch
 
 -	Finetune GPT 3.5 model on user input data
